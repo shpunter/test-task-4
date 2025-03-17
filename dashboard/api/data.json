@@ -1,0 +1,78 @@
+[
+  {
+    "id": 11,
+    "type": "image",
+    "impressions": 15000,
+    "clicks": 300,
+    "ctr": 2,
+    "url": "https://picsum.photos/300/250?random=1"
+  },
+  {
+    "id": 12,
+    "type": "image",
+    "impressions": 12000,
+    "clicks": 240,
+    "ctr": 2,
+    "url": "https://picsum.photos/300/250?random=2"
+  },
+  {
+    "id": 13,
+    "type": "image",
+    "impressions": 18000,
+    "clicks": 400,
+    "ctr": 2.22,
+    "url": "https://picsum.photos/300/250?random=3"
+  },
+  {
+    "id": 14,
+    "type": "image",
+    "impressions": 14000,
+    "clicks": 280,
+    "ctr": 2,
+    "url": "https://picsum.photos/300/250?random=4"
+  },
+  {
+    "id": 15,
+    "type": "text",
+    "impressions": 9000,
+    "clicks": 180,
+    "ctr": 2,
+    "headline": "Flash Sale!",
+    "description": "Limited-time discounts on all items."
+  },
+  {
+    "id": 16,
+    "type": "text",
+    "impressions": 10000,
+    "clicks": 250,
+    "ctr": 2.5,
+    "headline": "Free Shipping!",
+    "description": "Shop now and get free shipping on orders over $50."
+  },
+  {
+    "id": 17,
+    "type": "text",
+    "impressions": 11000,
+    "clicks": 220,
+    "ctr": 2,
+    "headline": "New Arrivals!",
+    "description": "Check out the latest collection of products."
+  },
+  {
+    "id": 18,
+    "type": "text",
+    "impressions": 9500,
+    "clicks": 200,
+    "ctr": 2.1,
+    "headline": "Limited Stock!",
+    "description": "Hurry up! Only a few left in stock."
+  },
+  {
+    "id": 19,
+    "type": "video",
+    "impressions": 6000,
+    "clicks": 120,
+    "ctr": 2,
+    "url": "https://www.w3schools.com/html/mov_bbb.mp4"
+  }
+]

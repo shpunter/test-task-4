@@ -1,0 +1,22 @@
+{
+  "imports": {
+    "@hono/hono": "jsr:@hono/hono@^4.7.2",
+    "/": "./",
+    "./": "./",
+    "remoteApp": "http://localhost:3030/assets/remoteEntry.js"
+  },
+  "tasks": {
+    "dev": "deno task dev:api & deno task dev:vite",
+    "dev:api": "deno -A api/main.ts",
+    "dev:vite": "deno -A npm:vite"
+  },
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "lib": ["ES2020", "DOM", "DOM.Iterable", "deno.ns"]
+  },
+  "lint": {
+    "rules": {
+      "include": ["no-debugger", "no-console"]
+    }
+  }
+}

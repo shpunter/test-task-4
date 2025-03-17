@@ -1,0 +1,10 @@
+.wrapper {
+  padding: 24px 20px;
+
+  font-family: "Rubik", sans-serif;
+}
+
+.description {
+  font-size: 14px;
+  color: rgb(85, 85, 85);
+}
